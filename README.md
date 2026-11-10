@@ -33,4 +33,4 @@ I added a calculation history feature. It stores successful results during the c
 I practised writing Python functions, using a `while` loop and `if/elif/else` decisions, converting user input to numbers, and handling invalid input and division by zero. I also learned how to use lists to store calculation results.
 
 ## Author
-[Your Full Name], ND1 Mechatronics Engineering, Yaba College of Technology.
+Aluko Israel orisunayomi, ND1 Mechatronics Engineering, Yaba College of Technology.
